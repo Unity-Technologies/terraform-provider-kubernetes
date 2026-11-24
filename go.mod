@@ -26,7 +26,7 @@ require (
 	github.com/ulikunitz/xz v0.5.6 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	k8s.io/api v0.16.12
-	k8s.io/apimachinery v0.16.12
+	k8s.io/apimachinery v0.16.13
 	k8s.io/client-go v10.0.0+incompatible
 	k8s.io/kube-aggregator v0.0.0-20191025230902-aa872b06629d
 	k8s.io/kubectl v0.16.12
