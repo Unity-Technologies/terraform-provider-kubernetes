@@ -23,7 +23,7 @@ require (
 	github.com/terraform-providers/terraform-provider-aws v1.60.1-0.20191010190908-1261a98537f2
 	github.com/terraform-providers/terraform-provider-google v1.20.1-0.20191008212436-363f2d283518
 	github.com/terraform-providers/terraform-provider-random v1.3.2-0.20190925210718-83518d96ae4f // indirect
-	github.com/ulikunitz/xz v0.5.6 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	k8s.io/api v0.16.12
 	k8s.io/apimachinery v0.16.12
